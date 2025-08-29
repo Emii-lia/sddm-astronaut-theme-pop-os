@@ -1,8 +1,5 @@
 # sddm-astronaut-theme-pop-os for Pop!OS
 
-![Stars](https://img.shields.io/github/stars/keyitdev/sddm-astronaut-theme-pop-os?color=dd864a&labelColor=1b1b25&style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/keyitdev/sddm-astronaut-theme-pop-os?color=bf616a&labelColor=1b1b25&style=for-the-badge)
-
 [sddm-astronaut-theme-pop-pop-os] is a version of [sddm-astronaut-theme](https://github.com/Keyitdev/sddm-astronaut-theme) display manager made by **[Keyitdev](https://github.com/Emii-lia)** for Pop!OS.
 
 **Pop!_OS Edition Note**: This version has been modified for compatibility with Pop!_OS (Ubuntu-based systems) using Qt5 instead of Qt6. Some advanced features like MultiEffect blur have been replaced with Qt5-compatible alternatives. The animated background may not work properly or even crash ; it is recommended to use static background
